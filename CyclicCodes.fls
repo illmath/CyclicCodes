@@ -1,0 +1,109 @@
+PWD C:/Users/kyles/Nextcloud/School/Math/4460-CodingTheory/cyclicCodesProject/CyclicCodes
+INPUT C:/Users/kyles/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT CyclicCodes.tex
+OUTPUT CyclicCodes.log
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/switch.def
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/babel-english/english.ldf
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/babel-english/english.ldf
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.def
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/txtbabel.def
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amscls/amsthm.sty
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amscls/amsthm.sty
+INPUT CyclicCodes.aux
+INPUT CyclicCodes.aux
+OUTPUT CyclicCodes.aux
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmti12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+OUTPUT CyclicCodes.pdf
+INPUT C:/Users/kyles/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT CyclicCodes.aux
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT C:/Users/kyles/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb
